@@ -189,4 +189,4 @@ REACT_APP_API_URL=http://localhost:5000
 
 ---
 
-**تم تطوير هذا المشروع بواسطة Manus AI**
+**AL FAYYADH **
